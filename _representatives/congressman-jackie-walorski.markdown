@@ -1,5 +1,5 @@
 ---
-title: Congresswoman Jackie Walorski
+title: Rep. Jackie Walorski
 date: 2017-06-29 19:10:00 Z
 position: 3
 phone-numbers:
