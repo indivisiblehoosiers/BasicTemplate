@@ -1,5 +1,5 @@
 ---
-title: Congresman Trey Hollingsworth
+title: Rep. Trey Hollingsworth
 date: 2017-06-29 19:25:00 Z
 position: 8
 phone-numbers:
