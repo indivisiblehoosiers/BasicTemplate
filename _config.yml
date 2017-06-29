@@ -11,9 +11,6 @@ collections:
   resources:
     title: Resources
     output: true
-  resourve:
-    title: Resourve
-    output: true
   successes:
     title: Successes
     output: true
