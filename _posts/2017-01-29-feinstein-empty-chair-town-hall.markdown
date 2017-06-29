@@ -1,14 +1,13 @@
 ---
 title: Statewide Indiana Indivisible Call
-date: 2017-07-02 03:11:00 Z
+date: 2017-01-29 03:11:00 Z
 categories:
 - event
 tags:
 - town hall
-main-image: "/uploads/16903207_263328324121850_6421341397699164399_o.jpg"
-event-start-date: 2017-02-28 10:00:00 Z
-event-end-date: 2017-02-28 15:00:00 Z
-Location: Elmhurst Community Prep - 1800 98th Ave, Oakland, California 94603
+event-start-date: 2017-07-02 10:00:00 Z
+event-end-date: 2017-07-02 15:00:00 Z
+Location: Your Home
 ---
 
 We would like to welcome all members of all the Indivisible groups through the state of Indiana to a conference call on July 2nd, 2017 at 7pm Central / 8 pm Eastern. 
