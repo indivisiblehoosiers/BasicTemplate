@@ -1,5 +1,5 @@
 ---
-title: Congressman Jin Banks
+title: Congressman Jim Banks
 date: 2017-06-29 19:23:00 Z
 phone-numbers:
   Congressional District: 3rd
