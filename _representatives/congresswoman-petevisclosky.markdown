@@ -1,7 +1,7 @@
 ---
 title: Congressman Pete Visclosky
 date: 2017-02-21 02:08:00 Z
-position: 2
+position: 3
 phone-numbers:
   Congressional District: '1st '
   DC Office: "(202) 225-2461"
