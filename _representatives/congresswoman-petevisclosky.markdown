@@ -1,5 +1,5 @@
 ---
-title: Congressman Pete Visclosky
+title: Rep. Pete Visclosky
 date: 2017-02-21 02:08:00 Z
 position: 2
 phone-numbers:
