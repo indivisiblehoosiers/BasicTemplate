@@ -1,7 +1,6 @@
 ---
 title: Congresswoman Jackie Walorski
 date: 2017-06-29 19:10:00 Z
-published: false
 position: 3
 phone-numbers:
   Congressional District: 2nd
