@@ -1,7 +1,6 @@
 ---
 title: Today's Win Against Trump
 date: 2017-02-01 23:50:00 Z
-published: false
 categories:
 - jekyll
 - update
