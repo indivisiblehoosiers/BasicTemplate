@@ -1,7 +1,7 @@
 ---
 title: Congresman Trey Hollingsworth
 date: 2017-06-29 19:25:00 Z
-position: 6
+position: 7
 phone-numbers:
   Congressional District: 8th
   DC Office: "(202) 225-5315"
