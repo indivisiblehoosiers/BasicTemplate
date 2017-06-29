@@ -1,5 +1,5 @@
 ---
-title: Indivisible City
+title: Indivisible Hoosiers
 timezone: UTC
 collections:
   posts:
@@ -59,13 +59,13 @@ defaults:
     mailchimp-form-embed: 
 subtitle: We are thousands of local citizens resisting the Trump agenda through civic
   action.
-email: 
+email: indivisblehoosiers@gmail.com
 baseurl: 
 url: 
 twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+facebook_username: IndivisibleHoosiers
+background-image: "/uploads/18216658_1384095801651015_6392113501898859987_o.jpg"
+member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
