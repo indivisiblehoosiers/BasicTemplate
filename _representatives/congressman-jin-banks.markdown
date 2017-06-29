@@ -1,5 +1,5 @@
 ---
-title: Congressman Jim Banks
+title: Rep. Jim Banks
 date: 2017-06-29 19:23:00 Z
 position: 4
 phone-numbers:
