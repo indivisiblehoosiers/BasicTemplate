@@ -1,5 +1,5 @@
 ---
-title: Congressman Luke Messer
+title: Rep. Luke Messer
 date: 2017-06-29 19:20:00 Z
 position: 7
 phone-numbers:
