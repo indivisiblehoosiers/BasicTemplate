@@ -1,7 +1,7 @@
 ---
 title: Rep. Luke Messer
 date: 2017-06-29 19:20:00 Z
-position: 7
+position: 6
 phone-numbers:
   Congressional District: 6th
   DC Office: " (202) 225-3021"

@@ -1,7 +1,7 @@
 ---
 title: Rep. Todd Rokita
 date: 2017-06-29 19:03:00 Z
-position: 6
+position: 8
 phone-numbers:
   Congressional District: 4th
   Lafayette Office: "(765) 838-3930"
