@@ -1,7 +1,7 @@
 ---
 title: Senator Todd Young
 date: 2017-02-04 02:01:00 Z
-position: 1
+position: 9
 phone-numbers:
   DC Office: " (202) 224-5623"
   Indianapolis Office: 317-226-6700
