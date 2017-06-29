@@ -11,7 +11,7 @@ collections:
   representatives:
     title: Representatives
     output: false
-  resources:
+  indivisiblehoosiers.org-resources:
     title: Resources
     output: false
   successes:
