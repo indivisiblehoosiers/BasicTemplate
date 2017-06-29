@@ -7,5 +7,6 @@ phone-numbers:
   Lafayette Office: "(765) 838-3930"
   Danville Office: "(317) 718-0404"
 website: http://rokita.house.gov
+layout: media-grid
 ---
 
