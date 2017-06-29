@@ -1,5 +1,5 @@
 ---
-title: Congresswoman Susan Brooks
+title: Rep. Susan Brooks
 date: 2017-06-29 19:16:00 Z
 position: 6
 phone-numbers:
