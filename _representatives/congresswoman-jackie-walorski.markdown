@@ -1,7 +1,7 @@
 ---
 title: Rep. Jackie Walorski
 date: 2017-06-29 19:10:00 Z
-position: 5
+position: 2
 phone-numbers:
   Congressional District: 2nd
   DC Office: " (202) 225-3915"
