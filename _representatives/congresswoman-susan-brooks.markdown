@@ -1,6 +1,7 @@
 ---
 title: Congresswoman Susan Brooks
 date: 2017-06-29 19:16:00 Z
+position: 5
 phone-numbers:
   Congressional District: 5th
   DC Office: "(202) 225-2276"
