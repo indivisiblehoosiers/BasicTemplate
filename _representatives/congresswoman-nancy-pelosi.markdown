@@ -1,5 +1,5 @@
 ---
-title: Congresswoman Pete Visclosky
+title: Congressman Pete Visclosky
 date: 2017-02-21 02:08:00 Z
 phone-numbers:
   DC Office: "(202) 225-2461"
