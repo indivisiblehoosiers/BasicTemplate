@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - town hall
-event-start-date: 2017-07-02 10:00:00 Z
+event-start-date: 2017-07-02 20:00:00 Z
 event-end-date: 2017-07-02 21:00:00 Z
 Location: Your Home
 ---
