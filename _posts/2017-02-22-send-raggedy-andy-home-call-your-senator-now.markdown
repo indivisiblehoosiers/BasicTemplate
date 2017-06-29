@@ -9,9 +9,10 @@ tags:
 - confirmation hearing
 is featured: true
 call-script-text: "[Example Link](http://example.com) Hi, my name is `____`, I'm a
-  local constituent. My zip code is `___`. I want Representative `_____` to say Thank
-  to `___`. I appreacite his/her support for the ACA and his/her rejection of Trumpcare.
-  \n\n..."
+  local constituent. My zip code is `___`. I want to let Representative `_____` know
+  that I appreciate his/her support for the ACA and his/her rejection of Trumpcare.
+  Please ask him/her to continue fighting for all Hoosiers to be able to have affordable
+  Healthcare. \n\n..."
 ---
 
 Please take a moment and thank Senator Joe Donnelly and Congressman Pete Visclosky for their support of the ACA and their opposition to Trumpcare. It's important that they know we are paying attention and we need to support them when they make good decisions.
