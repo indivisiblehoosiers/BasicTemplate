@@ -10,7 +10,7 @@ collections:
     output: false
   resources:
     title: Resources
-    output: true
+    output: false
   successes:
     title: Successes
     output: true
