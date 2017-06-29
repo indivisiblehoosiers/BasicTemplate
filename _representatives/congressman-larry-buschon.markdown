@@ -1,5 +1,5 @@
 ---
-title: Congressman Larry Buschon
+title: Rep. Larry Buschon
 date: 2017-06-29 19:28:00 Z
 position: 9
 phone-numbers:
