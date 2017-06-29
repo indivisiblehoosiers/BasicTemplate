@@ -1,5 +1,6 @@
 ---
-title: Send Andy Home! Call Your Senator Now!
+title: Call you Senator Donnelly and Congressman Pete Visclosky and say Thank you
+  for fighting Trumpcare!
 date: 2017-02-22 00:11:00 Z
 categories:
 - action
@@ -14,8 +15,14 @@ call-script-text: "[Example Link](http://example.com) Hi, my name is `____`, I'm
   lawsuit for wage suppression! \n\n..."
 ---
 
-[Example Link](http://example.com) Today's Daily Action is to call your senators to reiterate that Andy Puzder is a terrible--and now even more vulnerable--choice for Secretary of Labor. Yesterday, Puzder and the parent company of his Carl's Jr. fast-food chain were hit with a class action lawsuit for wage suppression.
+[Example Link](http://example.com) Please take a moment and thank Senator Joe Donnelly and Congressman Pete Visclosky for their support of the ACA and their opposition to Trumpcare. It's important that they know we are paying attention and we need to support them when they make good decisions.
 
-If you're keeping track, Puzder is also under fire for previous comments admitting that 40% of his employees were undocumented and for personally employing an undocumented worker as his maid for years - and only paying taxes for this worker after he was nominated to the Cabinet. All of these actions are, of course, violations of the laws our Labor Department is supposed to enforce. (A normal President would have long since forced such a nominee to withdraw, but Trump assumes that if he can push Betsy DeVos through, he can do anything.)
+Senator Joe Donnelly
+Washington, D.C. (202) 224-4814
+Hammond (219) 852-0089
+Fax: (219) 852-0729
 
-With Puzder's Senate confirmation hearing scheduled for next Thursday, it seems his only real qualification for this job was the $300,000 he gave to Donald Trump and the Republican Party in last year's election So tell your Senators we need to see a few more resumes for this position because Andy's record is just a little too raggedy. Let's aim for a Labor Secretary with experience defending our labor laws - not breaking them.
+Congressman Pete Visclosky 
+Washington, D.C. 202-225-2461
+Merrillville (219) 795-1844
+Fax: (219) 795-1850
