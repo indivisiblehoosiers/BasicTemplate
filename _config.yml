@@ -57,8 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
+subtitle: 
 email: indivisblehoosiers@gmail.com
 baseurl: 
 url: 
