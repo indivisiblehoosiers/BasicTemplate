@@ -1,13 +1,13 @@
 ---
-title: Rep. Todd Rokita
+title: Rep. Jackie Walorski
 date: 2017-06-29 19:03:00 Z
 position: 5
 phone-numbers:
-  Congressional District: 4th
-  DC Office: "(202) 225-5037"
-  Lafayette Office: "(765) 838-3930"
-  Danville Office: "(317) 718-0404"
-website: http://rokita.house.gov/
+  Congressional District: 2nd
+  DC Office: "(202) 225-3915"
+  Mishawaka Office: "(574) 204-2645"
+  Rochester Office: "(574) 223-4373"
+website: https://walorski.house.gov
 ---
 
 rad
