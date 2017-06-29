@@ -7,3 +7,5 @@ layout: post
 ---
 
 ![BanHome.gif](/uploads/BanHome.gif)
+
+Check you voter registration status here: 
