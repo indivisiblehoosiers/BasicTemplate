@@ -1,7 +1,7 @@
 ---
 title: Indivisible NWI Michigan City Voter Registration Canvass
 date: 2017-05-13 22:34:00 Z
-is featured: true
+is featured: false
 main-image: "/uploads/18485928_10212419150411913_4449685006994147558_n.jpg"
 ---
 
