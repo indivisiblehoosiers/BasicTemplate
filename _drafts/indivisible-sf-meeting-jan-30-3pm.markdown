@@ -1,7 +1,6 @@
 ---
 title: 'Indivisible SF Meeting: Jan 30, 3pm'
 date: 2017-02-03 07:10:00 Z
-published: false
 categories:
 - event
 tags:
