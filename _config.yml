@@ -2,9 +2,6 @@
 title: Indivisible Hoosiers
 timezone: UTC
 collections:
-  hoosier-groups:
-    title: Hoosier Groups
-    output: true
   posts:
     title: Posts
     output: true
