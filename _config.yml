@@ -8,9 +8,6 @@ collections:
   representatives:
     title: Representatives
     output: false
-  resources:
-    title: Resources
-    output: false
   successes:
     title: Successes
     output: true
