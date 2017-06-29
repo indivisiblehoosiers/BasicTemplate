@@ -9,13 +9,12 @@ tags:
 - confirmation hearing
 is featured: true
 call-script-text: "[Example Link](http://example.com) Hi, my name is `____`, I'm a
-  local constituent. My zip code is `___`. I want Representative `_____` to say NO
-  to Andy Puzder. He is terrible choice for Secretary of Labor. Yesterday, Puzder
-  and the parent company of his Carl's Jr. fast-food chain were hit with a class action
-  lawsuit for wage suppression! \n\n..."
+  local constituent. My zip code is `___`. I want Representative `_____` to say Thank
+  to `___`. I appreacite his/her support for the ACA and his/her rejection of Trumpcare.
+  \n\n..."
 ---
 
-[Example Link](http://example.com) Please take a moment and thank Senator Joe Donnelly and Congressman Pete Visclosky for their support of the ACA and their opposition to Trumpcare. It's important that they know we are paying attention and we need to support them when they make good decisions.
+Please take a moment and thank Senator Joe Donnelly and Congressman Pete Visclosky for their support of the ACA and their opposition to Trumpcare. It's important that they know we are paying attention and we need to support them when they make good decisions.
 
 Senator Joe Donnelly
 Washington, D.C. (202) 224-4814
