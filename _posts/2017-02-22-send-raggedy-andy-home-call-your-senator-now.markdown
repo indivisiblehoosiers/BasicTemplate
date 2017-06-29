@@ -1,6 +1,6 @@
 ---
-title: Call you Senator Donnelly and Congressman Pete Visclosky and say Thank you
-  for fighting Trumpcare!
+title: Call Senator Donnelly and Congressman Pete Visclosky and say Thank you for
+  fighting Trumpcare!
 date: 2017-02-22 00:11:00 Z
 categories:
 - action
