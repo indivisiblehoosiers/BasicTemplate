@@ -1,6 +1,7 @@
 ---
 title: Indiana Voters
 date: 2017-06-29 19:33:00 Z
+published: false
 categories:
 - resources
 tags:
@@ -8,7 +9,7 @@ tags:
 website: https://indianavoters.in.gov/PublicSite/PublicMain.aspx
 Field name:
   Key: 
-layout: page
+layout: post
 ---
 
 ![BanHome.gif](/uploads/BanHome.gif)
