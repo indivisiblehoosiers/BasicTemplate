@@ -2,7 +2,7 @@
 title: Indiana Voters
 date: 2017-06-29 19:33:00 Z
 categories:
-- resources
+- event
 tags:
 - resources
 website: https://indianavoters.in.gov/PublicSite/PublicMain.aspx
