@@ -1,7 +1,7 @@
 ---
 title: Rep. Larry Buschon
 date: 2017-06-29 19:28:00 Z
-position: 9
+position: 8
 phone-numbers:
   DC Office: "(202) 225-4636"
   Evansville Office: "(812) 465-6484"
