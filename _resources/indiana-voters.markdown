@@ -9,7 +9,7 @@ tags:
 website: https://indianavoters.in.gov/PublicSite/PublicMain.aspx
 Field name:
   Key: 
-layout: post
+layout: default
 ---
 
 ![BanHome.gif](/uploads/BanHome.gif)
