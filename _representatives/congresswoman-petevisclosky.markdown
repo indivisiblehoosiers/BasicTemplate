@@ -5,7 +5,7 @@ categories:
 - rep
 tags:
 - Congressman
-position: 1
+position: 0
 phone-numbers:
   DC Office: "(202) 225-2461"
   Merrillville Office: "(219) 795-1844"

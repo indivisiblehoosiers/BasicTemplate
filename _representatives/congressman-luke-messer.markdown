@@ -1,7 +1,7 @@
 ---
 title: Rep. Luke Messer
 date: 2017-06-29 19:20:00 Z
-position: 6
+position: 5
 phone-numbers:
   DC Office: " (202) 225-3021"
   Muncie Office: "(765) 747-5566"

@@ -5,7 +5,7 @@ categories:
 - Rep
 tags:
 - Senator
-position: 9
+position: 8
 phone-numbers:
   DC Office: " (202) 224-5623"
   Indianapolis Office: 317-226-6700
