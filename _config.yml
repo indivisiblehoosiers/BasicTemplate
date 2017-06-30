@@ -5,12 +5,12 @@ collections:
   posts:
     title: Posts
     output: true
+  resources:
+    title: Reference
+    output: true
   representatives:
     title: Representatives
     output: false
-  resources:
-    title: Resources
-    output: true
   successes:
     title: Successes
     output: true
