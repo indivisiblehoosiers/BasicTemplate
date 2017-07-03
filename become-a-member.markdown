@@ -4,7 +4,7 @@ date: 2017-02-17 03:58:00 Z
 position: 6
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
   rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-  clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}\n\t/* Add your
+  clear:left; font:14px Helvetica,Arial,sans-serif;  width:675px;}\n\t/* Add your
   own MailChimp form style overrides in your site stylesheet or in this style block.\n\t
   \  We recommend moving this block and the preceding CSS link to the HEAD of your
   HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"//indivisiblehoosiers.us16.list-manage.com/subscribe/post?u=c9bd46aff581ffe6bebe6207c&amp;id=172b44d373\"
