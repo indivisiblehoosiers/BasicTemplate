@@ -63,7 +63,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   id=\"mce-group[599]-599-0\"><label for=\"mce-group[599]-599-0\">Yes</label></li>\n<li><input
   type=\"checkbox\" value=\"131072\" name=\"group[599][131072]\" id=\"mce-group[599]-599-1\"><label
   for=\"mce-group[599]-599-1\">No</label></li>\n</ul>\n</div>\n<div class=\"mc-field-group
-  input-group\">\n    <strong>Please choose and Action Team. </strong>\n    <ul><li><input
+  input-group\">\n    <strong>Please choose an Action Team. </strong>\n    <ul><li><input
   type=\"checkbox\" value=\"262144\" name=\"group[603][262144]\" id=\"mce-group[603]-603-0\"><label
   for=\"mce-group[603]-603-0\">2018 Election</label></li>\n<li><input type=\"checkbox\"
   value=\"524288\" name=\"group[603][524288]\" id=\"mce-group[603]-603-1\"><label
