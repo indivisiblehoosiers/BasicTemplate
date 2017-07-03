@@ -4,10 +4,10 @@ date: 2017-02-17 03:58:00 Z
 position: 6
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
   rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-  clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
-  form style overrides in your site stylesheet or in this style block.\n\t   We recommend
-  moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
-  id=\"mc_embed_signup\">\n<form action=\"//indivisiblehoosiers.us16.list-manage.com/subscribe/post?u=c9bd46aff581ffe6bebe6207c&amp;id=172b44d373\"
+  clear:left; font:14px Helvetica,Arial,sans-serif;  width:670px;}\n\t/* Add your
+  own MailChimp form style overrides in your site stylesheet or in this style block.\n\t
+  \  We recommend moving this block and the preceding CSS link to the HEAD of your
+  HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"//indivisiblehoosiers.us16.list-manage.com/subscribe/post?u=c9bd46aff581ffe6bebe6207c&amp;id=172b44d373\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
   class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
   to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
@@ -65,11 +65,8 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
   name=\"b_c9bd46aff581ffe6bebe6207c_172b44d373\" tabindex=\"-1\" value=\"\"></div>\n
   \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
-  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
-  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='MMERGE4';ftypes[4]='number';fnames[5]='MMERGE5';ftypes[5]='number';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[8]='MMERGE8';ftypes[8]='dropdown';fnames[9]='MMERGE9';ftypes[9]='dropdown';fnames[10]='MMERGE10';ftypes[10]='dropdown';fnames[11]='MMERGE11';ftypes[11]='dropdown';fnames[12]='MMERGE12';ftypes[12]='dropdown';}(jQuery));var
-  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
+  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
+  mc_embed_signup-->"
 layout: becomeAMember
 ---
 
