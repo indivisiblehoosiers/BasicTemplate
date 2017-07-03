@@ -4,7 +4,7 @@ date: 2017-02-17 03:58:00 Z
 position: 6
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
   rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-  clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}\n\t/* Add your
+  clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}\n\t/* Add your
   own MailChimp form style overrides in your site stylesheet or in this style block.\n\t
   \  We recommend moving this block and the preceding CSS link to the HEAD of your
   HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"//indivisiblehoosiers.us16.list-manage.com/subscribe/post?u=c9bd46aff581ffe6bebe6207c&amp;id=172b44d373\"
@@ -58,7 +58,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   type=\"checkbox\" value=\"16384\" name=\"group[595][16384]\" id=\"mce-group[595]-595-0\"><label
   for=\"mce-group[595]-595-0\">Yes</label></li>\n<li><input type=\"checkbox\" value=\"32768\"
   name=\"group[595][32768]\" id=\"mce-group[595]-595-1\"><label for=\"mce-group[595]-595-1\">No</label></li>\n</ul>\n</div>\n<div
-  class=\"mc-field-group input-group\">\n    <strong>Would you like to join an Action
+  class=\"mc-field-group input-group\">\n    <strong>Would you like to join a Action
   Team? </strong>\n    <ul><li><input type=\"checkbox\" value=\"65536\" name=\"group[599][65536]\"
   id=\"mce-group[599]-599-0\"><label for=\"mce-group[599]-599-0\">Yes</label></li>\n<li><input
   type=\"checkbox\" value=\"131072\" name=\"group[599][131072]\" id=\"mce-group[599]-599-1\"><label
@@ -69,11 +69,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   value=\"524288\" name=\"group[603][524288]\" id=\"mce-group[603]-603-1\"><label
   for=\"mce-group[603]-603-1\">Health Care</label></li>\n<li><input type=\"checkbox\"
   value=\"1048576\" name=\"group[603][1048576]\" id=\"mce-group[603]-603-2\"><label
-  for=\"mce-group[603]-603-2\">Immagration</label></li>\n<li><input type=\"checkbox\"
+  for=\"mce-group[603]-603-2\">Immigration</label></li>\n<li><input type=\"checkbox\"
   value=\"2097152\" name=\"group[603][2097152]\" id=\"mce-group[603]-603-3\"><label
   for=\"mce-group[603]-603-3\">Civil Rights</label></li>\n<li><input type=\"checkbox\"
   value=\"4194304\" name=\"group[603][4194304]\" id=\"mce-group[603]-603-4\"><label
-  for=\"mce-group[603]-603-4\">Envirnment</label></li>\n<li><input type=\"checkbox\"
+  for=\"mce-group[603]-603-4\">Environment</label></li>\n<li><input type=\"checkbox\"
   value=\"8388608\" name=\"group[603][8388608]\" id=\"mce-group[603]-603-5\"><label
   for=\"mce-group[603]-603-5\">Education</label></li>\n<li><input type=\"checkbox\"
   value=\"16777216\" name=\"group[603][16777216]\" id=\"mce-group[603]-603-6\"><label
