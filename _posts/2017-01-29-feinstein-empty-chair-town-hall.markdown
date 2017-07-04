@@ -8,7 +8,6 @@ tags:
 event-start-date: 2017-07-09 19:00:00 Z
 event-end-date: 2017-07-09 20:00:00 Z
 Location: Your Home
-RSVP-link: https://www.facebook.com/events/1594693487229322/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null
 ---
 
 We would like to welcome all members of all the Indivisible groups through the state of Indiana to a conference call on July 2nd, 2017 at 7pm Central / 8 pm Eastern.
