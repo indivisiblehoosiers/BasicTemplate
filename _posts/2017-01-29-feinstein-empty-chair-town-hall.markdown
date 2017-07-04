@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - town hall
-main-image: "/uploads/d.jpg"
 event-start-date: 2017-07-09 19:00:00 Z
 event-end-date: 2017-07-09 20:00:00 Z
 Location: Your Home
