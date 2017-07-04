@@ -27,6 +27,7 @@ event-end-date: 2017-07-07 17:00:00 Z
 Field name: <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F711171719083183%2Fvideos%2F711233932410295%2F&show_text=0&width=225"
   width="225" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
   allowTransparency="true" allowFullScreen="true"></iframe>
+layout: post
 ---
 
 Friends, the GOP pulled the vote on the Better Care Reconciliation Act (BCRA) last week, but we are not out of the woods yet. Please join Indivisible groups across the state in calling Senator Todd Young and Governor Holcomb, neither of whom have taken a position on this bill. Remember that the BCRA takes an ax to Medicaid, and not just the expansion, but the entire program. This bill is an excuse to cut taxes for the wealthy at the expense of the rest of Americans, including poor children and disabled Hoosiers.
