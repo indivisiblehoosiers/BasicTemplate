@@ -6,7 +6,6 @@ categories:
 tags:
 - evansville
 is featured: true
-main-image: "/uploads/19905413_1028393640630679_7432317333821002736_n.jpg"
 event-start-date: 2017-07-25 18:00:00 Z
 event-end-date: 2017-07-25 20:00:00 Z
 Location: 200 SE Martin Luther King Jr Blvd, Evansville, IN 47713-1802, United States
