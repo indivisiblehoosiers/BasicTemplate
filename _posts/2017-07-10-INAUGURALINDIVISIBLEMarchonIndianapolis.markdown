@@ -6,7 +6,7 @@ categories:
 is featured: true
 main-image: "/uploads/19800875_485326161808931_55133243575142396_o.jpg"
 event-start-date: 2017-08-26 12:00:00 Z
-Location: 'Indianapolis, Indiana '
+Location: Indianapolis State House
 RSVP-link: https://www.facebook.com/events/247285522427244/?acontext=%7B%22action_history%22%3A%22null%22%7D
 ---
 
