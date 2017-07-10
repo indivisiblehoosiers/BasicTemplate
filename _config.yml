@@ -65,11 +65,11 @@ subtitle: Resisting Trump gathered us...   Reclaiming our democracy sustains us.
 email: indivisblehoosiers@gmail.com
 baseurl: 
 url: 
-twitter_username: 
+twitter_username: "@IND_hoosiers"
 facebook_username: IndivisibleHoosiers
 background-image: "/uploads/18216658_1384095801651015_6392113501898859987_o.jpg"
 member-count: 100
-footer-title: Spread the word. Help build a movement.
+footer-title: 'Spread the word. Help build a movement. Join us! '
 markdown: kramdown
 gems:
 - jekyll-feed
