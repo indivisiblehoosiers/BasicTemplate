@@ -1,6 +1,8 @@
 ---
 title: INDIVISIBLE March on Indianapolis
 date: 2017-07-10 18:23:00 Z
+categories:
+- event
 is featured: true
 main-image: "/uploads/19800875_485326161808931_55133243575142396_o.jpg"
 event-start-date: 2017-08-26 00:00:00 Z
