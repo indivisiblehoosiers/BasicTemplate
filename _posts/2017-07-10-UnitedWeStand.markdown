@@ -1,5 +1,5 @@
 ---
-title: United We Stand - Resisitance
+title: United We Stand - Resistance
 date: 2017-07-10 17:49:00 Z
 categories:
 - event
