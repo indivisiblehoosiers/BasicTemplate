@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/19800875_485326161808931_55133243575142396_o.jpg"
 event-start-date: 2017-08-26 12:00:00 Z
 Location: Indianapolis State House
-RSVP-link: https://www.facebook.com/events/247285522427244/?acontext=%7B%22action_history%22%3A%22null%22%7D
+RSVP-link: http://indivisiblemarchonindianapolis.weebly.com/rsvp.html
 ---
 
 The purpose of the INDIVISIBLE MARCH is a nation wide opportunity to rally the energy and accomplishments to date of more than 5,982 registered Indivisible Groups in the United States of America in order to commemorate August 26th 1971, the day designated as "Women's Equality Day" in America. We intend to acknowledge the 97th Anniversary of the 19th Amendment in 2017 and beyond. Contact Indivisible March on Indianapolis or your local Indivisible chapter if your group or organization would like to be included and listed as a supporter of this inaugural event to commemorate the countdown to the 100th anniversary of the 19th Amendment in 2020.
