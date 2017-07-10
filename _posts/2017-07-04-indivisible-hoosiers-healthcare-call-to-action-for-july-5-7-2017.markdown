@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - call
-is featured: true
+is featured: false
 main-image: "/uploads/d.jpg"
 call-script-text: |-
   PHONE SENATOR YOUNG’S OFFICE
