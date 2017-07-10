@@ -3,14 +3,14 @@ title: STATEWIDE CTA July 10 - 14, 2017
 date: 2017-07-10 15:52:00 Z
 categories:
 - action
-main-image: "/uploads/Screen%20Shot%202017-07-10%20at%2012.24.49%20PM.png"
+main-image: "/uploads/18216658_1384095801651015_6392113501898859987_o-1.jpg"
 layout: post
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RSs-Io3vTU" frameborder="0" allowfullscreen></iframe>
 
-Indivisible Hoosiers STATEWIDE CTA July 10 - 14, 2017
-Trumpcare Cuts to Medicaid
+> Indivisible Hoosiers STATEWIDE CTA July 10 - 14, 2017
+> Trumpcare Cuts to Medicaid
 
 
 Senate Majority Leader Mitch McConnell is NOT giving up on bringing the Better Care Reconciliation Act (BCRA) to the Senate floor for a vote. He is pulling every rabbit out of his leadership hat in an effort to get the 50 votes he needs to pass the BCRA. (He’s counting on Mike Pence to be the much needed 51st vote - and he’ll get it.)
