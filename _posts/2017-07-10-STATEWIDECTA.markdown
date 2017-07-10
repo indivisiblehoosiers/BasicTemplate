@@ -3,6 +3,8 @@ title: STATEWIDE CTA July 10 - 14, 2017
 date: 2017-07-10 15:52:00 Z
 categories:
 - action
+tags:
+- call now
 is featured: true
 main-image: "/uploads/18216658_1384095801651015_6392113501898859987_o-1.jpg"
 event-start-date: 2017-07-10 00:00:00 Z
