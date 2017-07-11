@@ -7,7 +7,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: true
+is featured: false
 call-script-text: "[Example Link](http://example.com) Hi, my name is `____`, I'm a
   local constituent. My zip code is `___`. I want to let Representative `_____` know
   that I appreciate his/her support for the ACA and his/her rejection of Trumpcare.
