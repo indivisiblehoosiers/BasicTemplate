@@ -18,7 +18,6 @@ Come out and have good conversation with friendly local people who are working t
 \
 We want to hear from YOU what is important to you and your family. Whether you realize it or not, politics affects almost every aspect of our lives in one way or another. Some of the topics our group is focused on right now include health care, the economy, environmental issues, civil rights, immigration, voter rights, and the 2018 election. Come out and meet some new friends, and find out how you can bea part of the change!\
 \
-Some seating is available, but feel free to bring lawn chairs / blankets to relax! All ages welcome. There is a playground nearby, and you are welcome to bring other activities for the young (and young at heart) — but one of the main activities will be getting to know each other and hearing about important topics that affect our lives, and learning how we can be a part of the change.\
-\\
+Some seating is available, but feel free to bring lawn chairs / blankets to relax! All ages welcome. There is a playground nearby, and you are welcome to bring other activities for the young (and young at heart) — but one of the main activities will be getting to know each other and hearing about important topics that affect our lives, and learning how we can be a part of the change.
 
 * * * * * * * * * * 
