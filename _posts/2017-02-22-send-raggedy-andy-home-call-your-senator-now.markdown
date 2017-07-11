@@ -2,11 +2,6 @@
 title: Call Senator Donnelly and Congressman Pete Visclosky and say Thank you for
   fighting Trumpcare!
 date: 2017-02-22 00:11:00 Z
-categories:
-- action
-tags:
-- call now
-- confirmation hearing
 is featured: false
 call-script-text: "[Example Link](http://example.com) Hi, my name is `____`, I'm a
   local constituent. My zip code is `___`. I want to let Representative `_____` know
