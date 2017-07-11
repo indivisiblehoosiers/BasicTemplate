@@ -1,7 +1,7 @@
 ---
 title: Summer Social - Grant County Indivisible
 date: 2017-07-11 03:00:00 Z
-main-image: "/uploads/eventicon.png"
+main-image: "/uploads/fundraising-page-04.png"
 event-start-date: 2017-07-22 16:00:00 Z
 event-end-date: 2017-07-11 19:00:00 Z
 Location: Matter Park, Marion - Shelter 1
