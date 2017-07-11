@@ -1,6 +1,6 @@
 ---
 title: Summer Social - Grant County Indivisible
-date: 2017-07-10 21:00:00 Z
+date: 2017-07-10 18:00:00 Z
 categories:
 - event
 main-image: "/uploads/18274769_1384098271650768_7538285572172403196_n.jpg"
