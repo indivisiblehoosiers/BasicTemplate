@@ -1,6 +1,6 @@
 ---
 title: United We Stand - Resistance Fair - Evansville
-date: 2017-07-10 18:08:00 Z
+date: 2017-07-10 17:08:00 Z
 categories:
 - event
 is featured: false
