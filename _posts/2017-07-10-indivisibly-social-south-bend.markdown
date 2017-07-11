@@ -3,7 +3,7 @@ title: Indivisibly Social - South Bend
 date: 2017-07-10 18:18:00 Z
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/19905085_10101485999686539_6204344289890125528_n.jpg"
 event-start-date: 2017-07-18 18:30:00 Z
 event-end-date: 2017-07-18 20:30:00 Z
