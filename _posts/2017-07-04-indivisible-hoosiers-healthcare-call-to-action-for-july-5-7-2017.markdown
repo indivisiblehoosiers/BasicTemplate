@@ -1,8 +1,6 @@
 ---
 title: INDIVISIBLE HOOSIERS HEALTHCARE CALL TO ACTION FOR JULY 5-7, 2017
 date: 2017-07-04 04:33:00 Z
-categories:
-- action
 tags:
 - call
 is featured: false
