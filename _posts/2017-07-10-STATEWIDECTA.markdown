@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 is featured: true
-main-image: "/uploads/icon-phone.png"
+main-image: "/uploads/icon-phone-e829c7.png"
 event-start-date: 2017-07-10 00:00:00 Z
 event-end-date: 2017-07-16 00:00:00 Z
 layout: post
