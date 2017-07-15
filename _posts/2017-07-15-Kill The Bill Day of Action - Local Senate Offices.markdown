@@ -11,4 +11,4 @@ event-end-date: 2017-07-18 13:00:00 Z
 
 Join the national Indivisible #KillTheBill day of action at local Senate offices. Share stories, being as visible as possible and leaving behind photos and stories of people impacted by TrumpCare for them to remember when they vote. Beyond that, we’re encouraging groups to be visible outside the offices however they can. Bring whatever clothing, props and signage you believe work best for your group.
 
-For more info: https://www.indivisibleguide.com/resource/killthebill-day-action-local-senate-offices/
+(https://www.indivisibleguide.com/resource/killthebill-day-action-local-senate-offices/)
